@@ -1,6 +1,6 @@
 #include "stdafx.h"
-#include "CSafeMessageQueue.h"
 #include "IMessage.h"
+#include "CSafeMessageQueue.h"
 #include <queue>
 #include <Windows.h>
 
